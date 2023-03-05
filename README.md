@@ -1,6 +1,6 @@
 # Career Recruit
 
-Career-Recruit was a website in which the recruiter could post new job vacancies for any specialization for the hiring process and job seekers could search and apply for any number of jobs and apply jobs. The main goal of this website is to produce the right graduate based on the industry needs and it also connect job seekers qith the major organization.
+Career-Recruit is a website in which the recruiter could post new job vacancies for any specialization for the hiring process and job seekers could search and apply for any number of jobs. The main goal of this website is to produce the right graduate based on the industry needs and it also connect job seekers qith the major organization.
 
  
  -------------------------------------------
